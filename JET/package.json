@@ -7,7 +7,7 @@
     "@oracle/oraclejet-tooling": "^8.0.0"
   },
   "devDependencies": {
-    "node-sass": "4.12.0",
+    "node-sass": "4.14.1",
     "qunit": "2.4.1",
     "qunit-reporter-junit": "1.1.1"
   },
